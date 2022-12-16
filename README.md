@@ -9,3 +9,5 @@
 > Номер нужного сетевого адаптера необходимо указать в первой строке файла со списком серверов. Номер можно узнать с помощью команды **Get-NetIPConfiguration**
 
 ![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/Get-NetIPConfiguration.jpg)
+
+По вопросам и предложениям **Telegram: @kup57**
