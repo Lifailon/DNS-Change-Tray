@@ -6,7 +6,7 @@
 
 ![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/Tray.jpg)
 
-> Номер нужного сетевого адаптера необходимо указать в первой строке файла со списком серверов. Номер можно узнать с помощью команды **Get-NetIPConfiguration**
+> Номер индекса нужного сетевого адаптера необходимо указать в первой строке файла со списком серверов. Номер можно узнать с помощью команды: **Get-NetIPConfiguration**
 
 ![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/Get-NetIPConfiguration.jpg)
 
