@@ -10,4 +10,6 @@
 
 ![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/Get-NetIPConfiguration.jpg)
 
+![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/DNS-Address.jpg)
+
 По вопросам и предложениям **Telegram: @kup57**
