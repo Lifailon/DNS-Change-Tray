@@ -5,9 +5,9 @@
 **[Скачать (DNS-Change-Tray.exe)](https://github.com/Lifailon/DNS-Change-Tray/releases/tag/DNS-Change-Tray-1.2)**.
 
 ## Вкрсия 1.2.
-* Изменено отображение при двойном клике на текущую конфигурацию выбранного сетевого интерфейса (dns, ip и шлюза).
-* Добавлена кнопка Addresses, для вывода списка всех сетевых интерфейсов по ip-адресу и его индексу.
-* Увеличино до 15 адресов.
+* Добавлен вывод при двойном клике мыши, на текущую конфигурацию выбранного сетевого интерфейса (dns, ip и шлюза).
+* Добавлена кнопка Addresses, для вывода списка всех сетевых интерфейсов (ip-адреса и соответствующий им индекс).
+* Увеличино с 10 до 15 DNS адресов в список меню.
 
 ![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/IP-Configuration.jpg)
 ![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/Addresses.jpg)
