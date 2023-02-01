@@ -5,7 +5,7 @@
 **[Скачать (DNS-Change-Tray.exe)](https://github.com/Lifailon/DNS-Change-Tray/releases)**.
 
 ## Версия 1.3.
-* Удалена кнопка Addresses. Теперь список IP-адресов всех сетевых интерфейсов отображается в меню, выбранный адрес будет отмечен (Checked).
+* Удалена кнопка Addresses. Теперь список IP-адресов всех сетевых интерфейсов отображается в меню, выбранный адрес будет отмечен (Checked), для визуального разделения добавлены иконки.
 
 ![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/Tray-0.3.jpg)
 
