@@ -20,7 +20,7 @@
 
 ![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/Tray.jpg)
 
-> Номер индекса используюзегося сетевого интерфейса необходимо указать в первой строке файла со списком серверов (**Change**). Номер можно узнать с помощью команды: ` Get-NetIPConfiguration `
+> Номер индекса использующегося сетевого интерфейса необходимо указать в первой строке файла со списком серверов (**Change**). Номер можно узнать с помощью команды: ` Get-NetIPConfiguration `
 
 ![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/Get-NetIPConfiguration.jpg)
 
