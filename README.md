@@ -16,6 +16,7 @@
 ![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/IP-Configuration.jpg)
 ![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/Addresses.jpg)
 
+## Версия 1.1.
 После запуска, если в списке присутствует адрес текущего использующегося DNS-сервера, он будет отмечен в статусе выбранного (Checked), как и после смены адреса, так же текущий адрес можно узнать двойным кликом мыши по иконке. Список адресов создается автоматически (предустановленным по умолчанию), для изменения, нажмите кнопку **Change** и добавьте адрес с новой строки (до 10 адресов), для обновления списка, нажмите кнопку **Update**.
 
 ![Image alt](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Screen/Tray.jpg)
