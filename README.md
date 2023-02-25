@@ -5,7 +5,7 @@
 **[Скачать (DNS-Change-Tray.exe)](https://github.com/Lifailon/DNS-Change-Tray/releases)**.
 
 Скрипт **[Task-Creat-Startup.ps1](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Startup/Task-Creat-Startup.ps1)** для автоматического запуска программы при входе пользователя в систему (Run Us Administartor). \
-Скрипт ипорта задания в планировщик **[Task-Import-Startup.ps1](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Startup/Task-Import-Startup.ps1)**
+Скрипт импорта задания в планировщик **[Task-Import-Startup.ps1](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Startup/Task-Import-Startup.ps1)**
 
 
 ## Версия 1.3.
