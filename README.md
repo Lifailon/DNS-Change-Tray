@@ -4,6 +4,10 @@
 
 **[Скачать (DNS-Change-Tray.exe)](https://github.com/Lifailon/DNS-Change-Tray/releases)**.
 
+Скрипт **[Task-Creat-Startup.ps1](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Startup/Task-Creat-Startup.ps1)** создания задания в планировщик, для автоматического запуска программы при входе пользователя в систему (Run Us Administartor). \
+Скрипт ипорта задания в планировщик **[Task-Import-Startup.ps1](https://github.com/Lifailon/DNS-Change-Tray/blob/rsa/Startup/Task-Import-Startup.ps1)**
+
+
 ## Версия 1.3.
 * Удалена кнопка Addresses. Теперь список IP-адресов всех сетевых интерфейсов отображается в контекстное меню, выбранный адрес (указанный в файле) будет отмечен (Checked).
 * Добавлены иконки, для визуального разделения адресов.
